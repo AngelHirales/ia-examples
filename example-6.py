@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Angel Gabriel Hirales Guzman
+# 8SE
+# 21/02/2025
+
+>>>>>>> fb4c952 (Se agregaron comentarios)
 import cv2
 import numpy as np
 

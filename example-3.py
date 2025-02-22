@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Angel Gabriel Hirales Guzman
+# 8SE
+# 21/02/2025
+
+>>>>>>> fb4c952 (Se agregaron comentarios)
 # pip install Pillow
 from PIL import Image
 
